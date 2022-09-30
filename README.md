@@ -1,4 +1,6 @@
-# Implemented-DCGAN-and-WGAN-on-bitmoji-dataset.
+# Implemented DCGAN and WGAN 
+
+Dataset used: bitmoji
 <img src="https://github.com/indranarendra/Implemented-DCGAN-and-WGAN-on-bitmoji-dataset./blob/main/ganreal1.png"> 
 
 # Generated images using DCGAN
